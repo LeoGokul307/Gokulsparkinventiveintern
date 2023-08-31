@@ -4,3 +4,4 @@
 22/08/2023 drawing of gmail page
 26/08/2023 downloding figma and creating logo, sign up and sign in page
 28/08/2023 design page 
+31/08/2023 design google page
