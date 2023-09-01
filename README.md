@@ -5,3 +5,4 @@
 26/08/2023 downloding figma and creating logo, sign up and sign in page
 28/08/2023 design page 
 31/08/2023 design google page
+01/09/2023 design Amazon page
